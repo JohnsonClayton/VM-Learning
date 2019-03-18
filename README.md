@@ -2,7 +2,7 @@
 This repo is to help lower-level undergraduate students learn about Virtual Machines in an easy way. 
 
 # In Progress!
- - This repository is in progress. Below contains the `To-Do`s for the project. Contributions are welcomed.
+This repository is in progress. Below contains the `To-Do`s for the project. Contributions are welcomed.
  - [ ] Descriptions:
    - [ ] What are VMs?
    - [ ] Why are VMs?
