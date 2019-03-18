@@ -3,16 +3,16 @@ This repo is to help lower-level undergraduate students learn about Virtual Mach
 
 # In Progress!
  - This repository is in progress. Below contains the `To-Do`s for the project. Contributions are welcomed.
- [ ] Descriptions:
-   [ ] What are VMs?
-   [ ] Why are VMs?
-   [ ] Techniques
-     [ ] Local VMs
-     [ ] Containerization
-     [ ] Cloud
-     [ ] Other
+ - [ ] Descriptions:
+   - [ ] What are VMs?
+   - [ ] Why are VMs?
+   - [ ] Techniques
+     - [ ] Local VMs
+     - [ ] Containerization
+     - [ ] Cloud
+     - [ ] Other
  - [ ] Uses/Demonstrations of VMs
-     [ ] Find project ideas utilizing VMs in interesting ways
+     - [ ] Find project ideas utilizing VMs in interesting ways
 
 ## What are Virtual Machines?
 
